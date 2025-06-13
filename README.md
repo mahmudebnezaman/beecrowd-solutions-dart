@@ -35,7 +35,7 @@ While this is a personal learning repository, feel free to:
 📞 Contact
 Feel free to connect with me on:
 
-GitHub: mahmudebnezaman
+GitHub: [mahmudebnezaman](https://github.com/mahmudebnezaman)
 
 Email: mahmudebnejaman@gmail.com
 
