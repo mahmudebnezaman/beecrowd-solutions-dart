@@ -17,17 +17,6 @@ This repository contains:
 
 ---
 
-## 📁 Folder Structure
-
-/
-├── beginner/
-│ ├── 1001_extremely_basic.dart
-│ ├── 1002_area_of_circle.dart
-│ └── ...
-├── ad-hoc/
-├── strings/
-├── mathematics/
-└── ...
 
 ## 🧠 Why Dart?
 Dart is fast, expressive, and widely used in Flutter development.
