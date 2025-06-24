@@ -5,8 +5,6 @@ void main() {
 
   List<int> spaceCount = [1, 16, 32];
 
-  int count = 0;
-
   for (int i = 0; i < 7; i++) {
     for (int j = 0; j <= 39; j++) {
       if (j == 39) {

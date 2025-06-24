@@ -1,7 +1,6 @@
 import 'dart:io';
 
 void main() {
-  int j = 0, m = 0;
   for (int i = int.parse(stdin.readLineSync()!); i > 0; i--) {
     int jScore = 0, mScore = 0;
 
